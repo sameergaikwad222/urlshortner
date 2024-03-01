@@ -1,0 +1,6 @@
+
+//UnComment following configs in Production
+//app/config/config.json
+//app/database/datasource.mongo.json
+
+.vscode

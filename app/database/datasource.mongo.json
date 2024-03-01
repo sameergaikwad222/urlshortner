@@ -1,0 +1,5 @@
+{
+  "DBurl": "Mongo Database URL here",
+  "DBname": " Mongo Database Name Here",
+  "DBcollection": "Mongo Collection Name Here"
+}

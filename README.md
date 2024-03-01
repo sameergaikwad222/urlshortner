@@ -1,4 +1,4 @@
-# Go CRUD API
+# Go URL Shortner API
 
 A simple Go URL Shortner API using [Gin](https://github.com/gin-gonic/gin) framework for managing resources.
 
